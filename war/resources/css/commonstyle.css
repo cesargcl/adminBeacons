@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+.innercontent {
+	display:block;
+	width:90%;
+	margin: 0px auto;
+}
+
+.mensajeError {
+	color:red;
+	
+}

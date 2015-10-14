@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+
+body {
+  background-color:#222;
+  color:#CCC;
+}
+
+#wrapper {
+  display:block;
+  width:500px;
+  margin:0px auto;
+}
+
+#wrapper div {
+  text-align:center;
+}
+
+.saludo {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3em;
+}
+
+.nombre {
+  font-family: 'Dancing Script', cursive;
+  font-size: 4em;
+}
+
+.promocion {
+  font-family: 'Amatic SC', cursive;
+  font-size: 2em;
+}
+.tag {
+  font-size: 0.8em;
+}
+
